@@ -6,7 +6,6 @@ var suma = 1
 var resta = 1
 var switch = true
 
-
 func _ready():
 	pass
 
